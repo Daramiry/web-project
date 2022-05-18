@@ -1,2 +1,3 @@
 # web-project
-creating a first website
+hello my name is Daniel
+I am learning how to code
